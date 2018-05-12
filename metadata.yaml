@@ -1,0 +1,31 @@
+_repo: Fairy-Legends-and-Traditions-of-The-South-of-Ireland_39752
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Croker, Thomas Crofton
+    alias: Croker, T. Crofton (Thomas Crofton)
+    birthdate: 1798
+    deathdate: 1854
+    gutenberg_agent_id: '33973'
+    url: http://www.gutenberg.org/2009/agents/33973
+description: ''
+gutenberg_issued: '2012-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Ireland'
+- !lcc 'GR'
+- !lcsh 'Fairy tales -- Ireland'
+tableOfContents: The Shefro -- The Cluricaune -- The Banshee -- The Phooka -- Thierna
+  na Oge -- The Merrow -- The Dullahan -- The Fir darrig -- Treasure legends -- Rocks
+  and stones.
+title: Fairy Legends and Traditions of the South of Ireland
+url: http://www.gutenberg.org/ebooks/39752
